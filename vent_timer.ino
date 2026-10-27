@@ -3,8 +3,8 @@
 #include "time.h"
 
 const int ventPin = 4;
-const char* ssid = "ITS";
-const char* password = "inzynier";
+const char* ssid = "WIFI_SSID";
+const char* password = "WIFI_PASSWORD";
 
 const char* ntpServer = "pool.ntp.org";
 const char* tzInfo = "CET-1CEST,M3.5.0,M10.5.0/3";
